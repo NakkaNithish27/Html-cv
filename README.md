@@ -1,3 +1,3 @@
 # cv(Html)
-In demo branch
+In nit branch
 #Live preview:https://nakkanithish27.github.io/Html-cv/
